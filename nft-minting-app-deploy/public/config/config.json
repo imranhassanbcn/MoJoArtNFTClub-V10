@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x3Db7C1c651f3894C123faE155829c3c46313f23C",
+  "SCAN_LINK": "https://polygonscan.com/token/0x3Db7C1c651f3894C123faE155829c3c46313f23C",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "MoJoDigiArt",
+  "SYMBOL": "MDA",
+  "MAX_SUPPLY": 7777,
+  "WEI_COST": 20000000000000000,
+  "DISPLAY_COST": 1,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/mojodigiart-v2",
+  "SHOW_BACKGROUND": true
+}
